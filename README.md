@@ -1,7 +1,7 @@
 # Revenue-Analytics-Hospitality-Domain-
 An end-to-end hotel revenue analytics project using Python, SQL, and Power BI. Calculated RevPAR, ADR, DUNR, and DCNR to uncover trends, cancellations, and channel performance. Delivered interactive dashboards that enabled dynamic pricing and drove a 15% revenue increase.
-# DashBoard Preview
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/35b1ddef-addc-4e1b-929a-03e0db9c9d65" />
+# DashBoard Preview    
+<img width="1918" height="971" alt="image" src="https://github.com/user-attachments/assets/67ba8ab4-be51-4222-be26-4f32bacabb20" />
 
 
 # 🏨 Revenue Analytics – Hospitality Domain Data Analytics Project
