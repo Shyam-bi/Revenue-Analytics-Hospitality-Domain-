@@ -53,12 +53,3 @@ This end-to-end data analytics project focuses on **hotel revenue optimization**
 | Excel/CSV  | Initial data source (bookings, revenue)      |
 
 ---
-
-## 📁 Repository Structure
-
-```bash
-├── RevenueAnalytics_Hospitality.pbix     # Power BI dashboard file
-├── README.md                             # Project documentation
-├── images/                               # Dashboard screenshots (optional)
-├── data/ (optional)                      # Sample or simulated datasets
-
